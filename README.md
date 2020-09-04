@@ -1,2 +1,2 @@
-# Galakt1c.github.io
-We Build Computers
+# We Build Computers
+WBC es un negocio de venta de computadoras gaming.
